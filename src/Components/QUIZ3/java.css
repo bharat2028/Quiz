@@ -1,0 +1,24 @@
+/* App.css */
+
+body {
+  background-color: #292b2e;
+  color: #ffffff;
+  }
+  
+  .app-title {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ffffff;
+    margin-top: 2rem;
+  }
+
+.bgjava{
+  background: url('https://cdn.sanity.io/images/tlr8oxjg/production/3b047e0668b6b38cb2e7d35ac774f14f36533ea2-1456x816.png?w=3840&q=80&fit=clip&auto=format') no-repeat center center/cover;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+      top: 0;
+      left: 0;
+      z-index: -1;
+}
+  

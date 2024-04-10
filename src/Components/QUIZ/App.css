@@ -1,0 +1,22 @@
+/* App.css */
+body {
+  color: #ffffff;
+  }
+  
+  .app-title {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #ffffff;
+  margin-top: 2rem;
+  }
+
+  .bgpy{
+    background: url('https://img-c.udemycdn.com/course/750x422/919038_3ae1_11.jpg') no-repeat center center/cover;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+      top: 0;
+      left: 0;
+      z-index: -1;
+  }
+  
